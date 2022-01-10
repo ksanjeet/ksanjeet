@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksanjeet
-- 👀 I’m interested in "Distributed Systemx, Cloud Computing, Operating Systemc, High Availability, Portability" softwares and documentations
+- 👀 I’m interested in "Distributed System, Cloud Computing, Operating System, High Availability, Portability" softwares and documentations
 <!---- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...--->
 - 📫 You can visit my website https://sanjeet.jhajee.in or reach me via email at sanjeet@jhajee.in
